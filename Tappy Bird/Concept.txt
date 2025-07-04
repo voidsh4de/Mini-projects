@@ -1,0 +1,18 @@
+Flappy bird but each click changes the key used to fly
+
+
+#script
+
+My cousin is good at video games even better than me, but i cant allow that
+so because I'm petty, I'm gonna make a game so annoying it makes him quit.
+
+so here's the concept, Flappy bird a game everyone knows how to play you tap you go up, and dont hit the pipes.
+but what if you have to find the button that makes you fly?
+
+I'm thinking we display the current button on screen and every press it changes,
+but there's one problem	I'm really bad at making games.
+
+
+So heres where pygame will save me as it is the only tool i know how to make a game in
+
+there's not much more to say so lets get coding
